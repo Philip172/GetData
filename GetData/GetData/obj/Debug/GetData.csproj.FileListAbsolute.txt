@@ -1,0 +1,10 @@
+C:\Projects\GetData\GetData\bin\Debug\GetData.exe.config
+C:\Projects\GetData\GetData\bin\Debug\GetData.exe
+C:\Projects\GetData\GetData\bin\Debug\GetData.pdb
+C:\Projects\GetData\GetData\obj\Debug\GetData.Form1.resources
+C:\Projects\GetData\GetData\obj\Debug\GetData.Properties.Resources.resources
+C:\Projects\GetData\GetData\obj\Debug\GetData.csproj.GenerateResource.cache
+C:\Projects\GetData\GetData\obj\Debug\GetData.csproj.CoreCompileInputs.cache
+C:\Projects\GetData\GetData\obj\Debug\GetData.exe
+C:\Projects\GetData\GetData\obj\Debug\GetData.pdb
+C:\Projects\GetData\GetData\obj\Debug\GetData.csproj.AssemblyReference.cache
